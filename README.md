@@ -1,6 +1,8 @@
 # vue-tab
 
-> A Vue.js project
+> vue tab切换组件
+>@changeSelectedTab 切换tab之后的回调事件
+
 
 ## Build Setup
 
